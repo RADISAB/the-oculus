@@ -1,3 +1,1 @@
 # the-oculus
-
-Hello Everyone!
